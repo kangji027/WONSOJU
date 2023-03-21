@@ -1307,6 +1307,9 @@ footer span{
     .banner{
         display: none;
     }
+    .bag{
+        display: none;
+    }
     .sec-1_video{
         width: 600px;
     }
