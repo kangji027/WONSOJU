@@ -1,6 +1,5 @@
 $(document).ready(function(){
 
-
     
     var ww = $(window).width();
     var wh = $(window).height();
@@ -38,6 +37,8 @@ $(document).ready(function(){
                 opacity:1
             });
             
+        }if(sct<810){
+            skrollr.destory();
         }
         
 
@@ -112,3 +113,4 @@ $(document).ready(function(){
 
 
 });
+
