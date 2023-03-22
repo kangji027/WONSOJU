@@ -37,7 +37,7 @@ $(document).ready(function(){
                 opacity:1
             });
             
-        }if(sct<810){
+        }if(ww<810){
             skrollr.destory();
         }
         
